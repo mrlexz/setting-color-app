@@ -1,0 +1,28 @@
+.btnn {
+  width: 10%;
+  height: 50px;
+  margin: 0px 10px;
+  border-radius: 5px;
+}
+.btnn:focus {
+  border: 5px solid black;
+}
+.btnn-red {
+  background-color: red;
+  border: none;
+}
+.btnn-green {
+  background-color: green;
+  border: none;
+}
+.btnn-blue {
+  background-color: blue;
+  border: none;
+}
+.btnn-yellow {
+  background-color: yellow;
+  border: none;
+}
+.resu {
+  margin-top: 20px;
+}

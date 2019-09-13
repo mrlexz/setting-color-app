@@ -1,0 +1,22 @@
+.btnn-gr {
+  display: flex;
+}
+.btnn-s {
+  color: white;
+  background-color: lightskyblue;
+  border: none;
+  margin: 5px;
+  border-radius: 5px;
+}
+.btnn-rs {
+  display: flex;
+  margin-top: 20px;
+}
+.btnn-reset {
+  border-radius: 5px;
+  width: 12%;
+  height: 50px;
+  color: white;
+  background-color: gray;
+  border: none;
+}
